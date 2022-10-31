@@ -1,0 +1,1 @@
+Kişisel form örneği yapıldı.Örnek yapılırken index.html ve style.css uzantıları kullanıldı.
